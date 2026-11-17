@@ -2,7 +2,7 @@
 
 ![Pantalla de inicio del portfolio](og-image.png)
 
-Portfolio de **Paola Franco**, desarrolladora de aplicaciones multiplataforma y fullstack junior en Jerez de la Frontera (Cádiz).
+Portfolio de **Paola Franco**, desarrolladora de aplicaciones multiplataforma y fullstack junior.
 
 En lugar de una web de secciones, mi trayectoria se explora como un pequeño juego pixel-art. Recorres un pueblo rodeado de bosque y cada gimnasio guarda una parte de mi perfil (formación, stack, experiencia y proyectos). Al entrar en cada uno consigues una medalla. Si tienes prisa, el botón **Ver CV** lo muestra todo en una pantalla, y también puedes descargar el CV en PDF.
 
